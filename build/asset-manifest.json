@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Styling-components/static/css/main.812e641f.css",
+    "main.js": "/Styling-components/static/js/main.cf000a4b.js",
+    "index.html": "/Styling-components/index.html",
+    "main.812e641f.css.map": "/Styling-components/static/css/main.812e641f.css.map",
+    "main.cf000a4b.js.map": "/Styling-components/static/js/main.cf000a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.812e641f.css",
+    "static/js/main.cf000a4b.js"
+  ]
+}
